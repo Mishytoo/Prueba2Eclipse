@@ -7,7 +7,7 @@ public class EjemploGit {
 		
 		String nom_ape= "Rojas Enrique";
 		
-		//probando, revivio mi github
+		//probando, revivio mi github, version 2
 		System.out.println(nom_ape);
 	}
 	
