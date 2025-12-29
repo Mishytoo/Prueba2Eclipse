@@ -7,8 +7,8 @@ public class EjemploGit {
 		
 		String nom_ape= "Rojas Enrique";
 		
-		//probando
-		//PORQUE NO ACTUALIZO???
+		//probando, revivio mi github
+		System.out.println(nom_ape);
 	}
 	
 }
