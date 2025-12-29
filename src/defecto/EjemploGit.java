@@ -7,8 +7,7 @@ public class EjemploGit {
 		
 		String nom_ape= "Rojas Enrique";
 		
-		//ultima de ultima de ultimas
-		//probando, revivio mi github, version 2
+		//probando, revivio mi github, version final
 		System.out.println(nom_ape);
 	}
 	
