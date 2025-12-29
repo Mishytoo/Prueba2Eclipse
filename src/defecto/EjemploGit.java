@@ -8,6 +8,7 @@ public class EjemploGit {
 		String nom_ape= "Rojas Enrique";
 		
 		//probando
+		//PORQUE NO ACTUALIZO???
 	}
 	
 }
